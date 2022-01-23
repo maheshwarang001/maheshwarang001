@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshwarang001
 - 👀 I’m interested in blockchain application
-- 🌱 I’m currently learning backend in Java
+- 🌱 I’m currently learning advanced Java
 - 📫 How to reach me https://www.linkedin.com/in/mahesh-warang-a6a04b212/
 
 <!---
