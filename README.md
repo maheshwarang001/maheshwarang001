@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshwarang
 - 👀 I’m interested in blockchain application
-- 🌱 I’m currently learning advanced Java
+- 🌱 I’m currently learning Solidity
 - 📱 I can develop an android app
 - 📫 How to reach me https://www.linkedin.com/in/mahesh-warang-a6a04b212/
 
