@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maheshwarang001
+- 👋 Hi, I’m @maheshwarang
 - 👀 I’m interested in blockchain application
 - 🌱 I’m currently learning advanced Java
 - 📱 I can develop an android app
