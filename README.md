@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshwarang
 - 👀 I’m a fullstack software developer
-- 🌱 I’m currently diving deep into DSA | leetcode ->(https://leetcode.com/maheshWarang/)
+- 🌱 I’m currently diving deep into DSA | leetcode ->(https://leetcode.com/u/raceMight/)
 - 📱 Web app | Rest API | Android app | Deep Learning | AWS
 - 📫 How to reach me https://www.linkedin.com/in/mahesh-warang-a6a04b212/
 
