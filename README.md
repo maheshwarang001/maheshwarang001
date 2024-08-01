@@ -2,7 +2,7 @@
 - 👀 I’m a fullstack software developer
 - 🌱 leetcode ->(https://leetcode.com/u/raceMight/) 1533
 - 🌱 Grinding Codeforces ->(https://codeforces.com/profile/maheshwarang001) 1017 
-- 📱 Web app | Rest API | Android app | Deep Learning | AWS
+- 📱 Backend | Android App | Web App | AWS 
 - 📫 How to reach me https://www.linkedin.com/in/mahesh-warang-a6a04b212/
 
 <!---
