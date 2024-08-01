@@ -26,7 +26,7 @@
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
