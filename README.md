@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **In_Minutes (Q-commerce for UK)**
 
-- 🌱 I’m currently grinding **Codeforces target -> Specialist**
+- 🌱 I’m currently grinding competitve programming **Codeforces target -> Expert**
 
 - 📊 [Leetcode](https://leetcode.com/raceMight/) -> 1553  |  [CodeForces](https://codeforces.com/profile/maheshwarang001) -> 1056
   
 - 👨‍💻 All of my projects are available at [https://github.com/maheshwarang001?tab=repositories](https://github.com/maheshwarang001?tab=repositories)
 
-- ⚡ Fun fact I'm always curious about System Design and Optimization
+- ⚡ Fun fact I'm always curious about Scalable System Designs and Optimizations
 
-- 💬 Ask me about **Backend, Android applications and react**
+- 💬 Ask me about **DSA, Backend, Android applications and anything in between**
 
 - 📫 How to reach me **maheshwarang001@gmail.com**
 
