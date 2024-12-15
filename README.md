@@ -24,6 +24,10 @@
 
 - ⚡ Fun fact **I'm always curious about System Design and Optimization**
 
+<p class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mahesh-warang-a6a04b212" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/mahesh-warang-a6a04b212?trk=profile-badge">Mahesh Warang</a>
+</p>        
+
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
